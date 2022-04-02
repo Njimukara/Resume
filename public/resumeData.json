@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Njimukara Brian",
+    "occupation": "Freelance Software Developer",
+    "description": "My top quote is 'Learn, build and perfect'",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "I am a young computer enthusiast who has put in a lot of effort to gain professional skills in web development. I have completed courses on Udemy, Coursera and have also worked on hands-on projects with much thanks to PAPA REACT FAM and clever programmer. this has really given me hands on experience with technologies",
+    "contactmessage": "Get in touch with me!",
+    "email": "njimukarabrian@gmail.com",
+    "phone": "+237 650501279",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "Foncha Street",
+      "city": "Bamenda, Cameroon",
+      "state": "North West Region",
+      "zip": ""
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
@@ -29,17 +29,17 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/njimukara-brian-njimukara-76a327186/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/njimukara/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/Njimukara",
         "className": "fa fa-github"
       }
     ]
@@ -48,74 +48,86 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "University of Bamenda - Cameroon",
+        "degree": "Bachelor's Degree in Computer Engineering",
+        "graduated": "December 2021",
+        "description": "Graduated with Second Class Honours - Upper Division"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "National Printing Press, Yaounde, Cameroon",
+        "title": "Software Engineer Intern",
+        "years": "June 2020 - November 2020",
+        "description": "Developed a software used to aid in the storage and management of work related documents."
+      },
+      {
+        "company": "Altechs Engineering sarl, Yaounde, Cameroon",
+        "title": "Web Developer Intern",
+        "years": "December 2020 - January 2021",
+        "description": "Designed and developed a web application to manage both employees and projects in the company."
+      },
+      {
+        "company": "INNO-Digital Solutions, Yaounde, Cameroon",
+        "title": "Web Developer Intern",
+        "years": "June 2019 - August 2019",
+        "description": "Started out with wordpress by building websites for hotels.."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "80%"
       },
       {
         "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
         "level": "70%"
       },
       {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "80%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Covid_19 Tracker (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "covid.png",
+        "url": "https://covid-19-tracker-daef6.web.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Weather Application (React JS)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "weatherApp.png",
+        "url": "https://weather-app-1a0d2.web.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "My Demo Blog (Next JS and GraphCMS)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "blog.png",
+        "url": "https://graphcms-ma0f88f43-njimukara.vercel.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Brian is absolutely excellent, his depth of knowledge really got us going... I would definitely recommend",
+        "user": "Altechs Engineering"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Working with Njimukara is quite smooth! He quickly gets cncepts and puts his all for projects to go to completion",
+        "user": "Games Mania"
       }
     ]
   }
