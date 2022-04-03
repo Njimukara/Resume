@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PAPA React JS Resume Starter Pack and Digital Portfolio
 
 ![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
@@ -55,3 +56,7 @@ Once all the formatting and data input is finalised, run `npm run build`. This w
 ##### Original Idea
 
 <a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>
+=======
+# Resume
+Developing a one page application for my resume
+>>>>>>> c8c4387d5002800a3d918168d6aeb7d43be67fa8
